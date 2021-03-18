@@ -1,0 +1,81 @@
+[{ "name" : "BANNER", "dimensions" : "","dataType" : "static", "min": 2, "max": 5,
+	"properties": [
+		{"name" : "ViewAll","required" : "true", "dataType" : "url", "label" : "View all",  "jsonProperty" : "viewAllUrl"},
+		{"name" : "AutoTransition","required" : "true", "dataType" : "boolean", "label" : "Auto Transition", "default" : "No", "jsonProperty" : "autoTransition", "options": [{"label": "Yes", "value": "1"}, {"label": "No", "value": "0"}]},
+		{"name" : "TransitionTimeBetweenBanner","required" : "true", "dataType" : "time", "label" : "Transition time between banner",  "jsonProperty" : "autoTransitionTime"}
+		],
+	"dynamicProperties" : [
+		{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+		{"name" : "Alt","required" : "true", "dataType" : "text", "label" : "Alt/Title",  "jsonProperty" : "alt"},
+		{"name" : "LandingUrl","required" : "true", "dataType" : "text", "label" : "Landing Url",  "jsonProperty" : "href"},
+		{"name" : "Action","required" : "true", "dataType" : "dropdown", "label" : "Action",  "jsonProperty" : "action", "options": [{"label": "WEB_VIEW", "value": "WEB_VIEW"}, {"label": "PRODUCT_LISTING", "value": "PRODUCT_LISTING"}, {"label": "PRODUCT_DISPLAY", "value": "PRODUCT_DISPLAY"}, {"label": "VIDEO", "value": "VIDEO"}, {"label": "CUSTOM_HOME", "value": "CUSTOM_HOME"}]}
+	]
+},
+{ "name" : "VIDEO_N_IMAGE", "dimensions" : "","dataType" : "static", "min": 2, "max": 3,
+	"dynamicProperties" : [
+		{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+		{"name" : "Alt","required" : "true", "dataType" : "text", "label" : "Alt/Title",  "jsonProperty" : "alt"},
+		{"name" : "LandingUrl","required" : "true", "dataType" : "text", "label" : "Landing Url",  "jsonProperty" : "href"},
+		{"name" : "Type","required" : "true", "dataType" : "dropdown", "label" : "Type",  "jsonProperty" : "type", "options": [{"label": "Image", "value": "image"}, {"label": "Video", "value": "video"}]},
+		{"name" : "Video","required" : "true", "dataType" : "text", "label" : "Video",  "jsonProperty" : "video"}
+	]
+},
+{ "name" : "PRODUCT", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "CountOfProducts","required" : "true", "dataType" : "number", "label" : "Count of products", "default" : 2},
+	{"name" : "ProductId","required" : "true", "dataType" : "text", "label" : "Product ID",  "jsonProperty" : "productId"},
+	{"name" : "ViewAll","required" : "true", "dataType" : "url", "label" : "View all",  "jsonProperty" : "viewAllUrl"}]
+},
+{ "name" : "HORIZONTAL_TILE_2", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "NumberOfSlots","required" : "true", "dataType" : "number", "label" : "Number of slots", "default" : 2},
+	{"name" : "ViewAll","required" : "true", "dataType" : "url", "label" : "View all",  "jsonProperty" : "viewAllUrl"},
+	{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+	{"name" : "Alt","required" : "true", "dataType" : "text", "label" : "Alt/Title",  "jsonProperty" : "alt"},
+	{"name" : "Url","required" : "true", "dataType" : "url", "label" : "URL",  "jsonProperty" : "href"}]
+
+},
+
+{ "name" : "HORIZONTAL_TILE_3", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "NumberOfSlots","required" : "true", "dataType" : "number", "label" : "Number of slots", "default" : 2},
+	{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+	{"name" : "Alt","required" : "true", "dataType" : "text", "label" : "Alt/Title",  "jsonProperty" : "alt"},
+	{"name" : "ViewAll","required" : "true", "dataType" : "url", "label" : "View all",  "jsonProperty" : "viewAllUrl"},
+	{"name" : "Url","required" : "true", "dataType" : "url", "label" : "URL",  "jsonProperty" : "href"}]
+
+},
+
+{ "name" : "HORIZONTAL_TILE_1", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "NumberOfSlots","required" : "true", "dataType" : "number", "label" : "Number of slots", "default" : 2},
+	{"name" : "ViewAll","required" : "true", "dataType" : "url", "label" : "View all",  "jsonProperty" : "viewAllUrl"}
+	],
+"dynamicProperties":[
+	{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+	{"name" : "Alt","required" : "true", "dataType" : "text", "label" : "Alt/Title",  "jsonProperty" : "alt"},
+	{"name" : "Url","required" : "true", "dataType" : "url", "label" : "URL",  "jsonProperty" : "href"}
+]
+},
+{ "name" : "STRIP", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "WidgetTitle","required" : "false", "dataType" : "text", "label" : "Widget Title"},
+	{"name" : "Image","required" : "true", "dataType" : "upload", "label" : "Image",  "jsonProperty" : "imageUrl"},
+	{"name" : "Url","required" : "true", "dataType" : "url", "label" : "URL",  "jsonProperty" : "href"}]
+
+},
+{ "name" : "RECENT", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "WidgetTitle","required" : "false", "dataType" : "text", "label" : "Widget Title"},
+	{"name" : "CountOfProducts","required" : "true", "dataType" : "number", "label" : "Count of products", "default" : 2},
+	{"name" : "WidgetURL","required" : "true", "dataType" : "url", "label" : "Widget URL",  "jsonProperty" : "href"}]
+
+},
+{ "name" : "VIDEO", "dimensions" : "","dataType" : "static",
+"properties": [{"name" : "WidgetPosition","required" : "true", "dataType" : "number", "label" : "Widget position", "jsonProperty" : "sortOrder"},
+	{"name" : "WidgetTitle","required" : "false", "dataType" : "text", "label" : "Widget Title"},
+	{"name" : "VideoLink","required" : "true", "dataType" : "url", "label" : "Video Link"},
+	{"name" : "AutoPlay","required" : "true", "dataType" : "boolean", "label" : "Auto Play",  "jsonProperty" : "autoPlay"}]
+
+}
+]

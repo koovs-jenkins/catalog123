@@ -1,0 +1,303 @@
+{
+  "platform": "APP",
+  "widgetDimensionMapping": {
+    "BANNER": [
+      {
+        "1080px*720px": {
+          "appearance": {
+            "height": 240,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*1080px": {
+          "appearance": {
+            "height": 360,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*1260px": {
+          "appearance": {
+            "height": 420,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "HORIZONTAL_TILE_1": [
+      {
+        "570px*480px": {
+          "appearance": {
+            "height": 160,
+            "width": 190,
+            "itemScreenCount": 1.75
+          }
+        }
+      }
+    ],
+    "HORIZONTAL_TILE_2": [
+      {
+        "486px*408px": {
+          "appearance": {
+            "height": 136,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ],
+    "HORIZONTAL_TILE_3": [
+      {
+        "486px*324px": {
+          "appearance": {
+            "height": 108,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ],
+    "VIDEO_BANNER": [
+      {
+        "1080px*600px": {
+          "appearance": {
+            "height": 200,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*1080px": {
+          "appearance": {
+            "height": 360,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*540px": {
+          "appearance": {
+            "height": 180,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "STRIP_BANNER": [
+      {
+        "1080px*480px": {
+          "appearance": {
+            "height": 160,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "VERTICAL_TILE_1": [
+      {
+        "486px*594px": {
+          "appearance": {
+            "height": 198,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ],
+    "SHOP_THE_LOOK": [
+      {
+        "1080px*600px": {
+          "appearance": {
+            "height": 200,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*1080px": {
+          "appearance": {
+            "height": 360,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      },
+      {
+        "1080px*540px": {
+          "appearance": {
+            "height": 180,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "OVERLAP_TILE_1": [
+      {
+        "486px*486px": {
+          "appearance": {
+            "height": 162,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ],
+    "PRODUCT": [
+      {
+        "384px*512px": {
+          "appearance": {
+            "height": 256,
+            "width": 192,
+            "itemScreenCount": 1.8
+          }
+        }
+      }
+    ],
+    "SALE_TIMER": [
+      {
+        "1080px*153px": {
+          "appearance": {
+            "height": 31,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "FLEX_TILE": [
+      {
+        "600px*280px": {
+          "appearance": {
+            "height": 140,
+            "width": 300,
+            "itemScreenCount": 1.2
+          }
+        }
+      },
+      {
+        "512px*384px": {
+          "appearance": {
+            "height": 192,
+            "width": 256,
+            "itemScreenCount": 1.4
+          }
+        }
+      },
+      {
+        "600px*600px": {
+          "appearance": {
+            "height": 300,
+            "width": 300,
+            "itemScreenCount": 1.2
+          }
+        }
+      },
+      {
+        "500px*600px": {
+          "appearance": {
+            "height": 300,
+            "width": 250,
+            "itemScreenCount": 1.4
+          }
+        }
+      }
+    ],
+    "GRID_TILE": [
+      {
+        "486px*594px": {
+          "appearance": {
+            "height": 198,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ],
+    "LOGO_STRIP": [
+      {
+        "486px*594px": {
+          "appearance": {
+            "height": 52,
+            "width": 122,
+            "itemScreenCount": 3.8
+          }
+        }
+      }
+    ],
+    "FLASH_SALE": [
+      {
+        "1080px*153px": {
+          "appearance": {
+            "height": 51,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "BRAND_STORE": [
+      {
+        "1080px*153px": {
+          "appearance": {
+            "height": 650,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "SUBSCRIPTION": [
+      {
+        "1080px*153px": {
+          "appearance": {
+            "height": 250,
+            "width": 360,
+            "itemScreenCount": 1
+          }
+        }
+      }
+    ],
+    "VIDEO_N_IMAGE": [
+      {
+        "1500px*600px": {
+          "appearance": { "height": 200, "width": 500, "itemScreenCount": 2 }
+        }
+      },
+      {
+        "1500px*450px": {
+          "appearance": { "height": 150, "width": 500, "itemScreenCount": 3 }
+        }
+      }
+    ],
+    "HOTNOW": [
+      {
+        "480px*480px": {
+          "appearance": { "height": 160, "width": 160, "itemScreenCount": 1.75 }
+        }
+      }
+    ],
+    "OVERLAP_TILE_2": [
+      {
+        "486px*486px": {
+          "appearance": {
+            "height": 162,
+            "width": 162,
+            "itemScreenCount": 2.2
+          }
+        }
+      }
+    ]
+  }
+}
