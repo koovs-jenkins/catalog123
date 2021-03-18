@@ -1,0 +1,901 @@
+{
+  "ANDROID": {
+    "BANNER": {
+      "data": [
+        {
+          "sortOrder": 1,
+          "imageUrl": "",
+          "alt": "",
+          "href": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "BANNER",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "autoTransitionTime": 0,
+      "animationType": "",
+      "animationSpeed": "",
+      "minItem": 1,
+      "maxItem": 5
+    },
+    "PRODUCT": {
+      "data": [],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "href": ""
+    },
+    "HORIZONTAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 5,
+      "viewAllUrl": ""
+    },
+    "HORIZONTAL_TILE_2": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 0,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 400
+    },
+    "HOTNOW": {
+      "data": [
+        {
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 2,
+      "maxItem": 3
+    },
+    "SHOP_THE_LOOK": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "imageUrl": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "action": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": {
+        "height": 0,
+        "width": 0,
+        "itemScreenCount": 1
+      },
+      "subtype": "",
+      "label": ""
+    },
+    "VIDEO_BANNER": {
+      "data": [
+        {
+          "autoplay": false,
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "gender": "",
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "STRIP_BANNER": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "VERTICAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 4,
+      "maxItem": 4,
+      "viewAllUrl": ""
+    },
+    "TEXT_BANNER": {
+      "data": [{ "gender": "", "sortOrder": 1, "htmlDataString": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "SALE_TIMER": {
+      "data": [
+        {
+          "title": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "subtitle": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": ""
+    },
+    "FLEX_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 2,
+      "maxItem": 5
+    },
+    "GRID_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 3,
+      "maxItem": 6
+    },
+    "LOGO_STRIP": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "IMAGE",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 8,
+      "maxItem": 400
+    },
+    "FLASH_SALE": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "startDatetime": "",
+      "endDatetime": ""
+    },
+    "BRAND_STORE": {
+      "data": [
+        {
+          "imageUrl": "",
+          "title": "",
+          "href": "",
+          "description": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SUBSCRIPTION": {
+      "data": [{ "description": "", "gender": "", "sortOrder": 1 }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SPACE_STRIP": {
+      "data": [],
+      "sortOrder": 1,
+      "type": ""
+    },
+    "OVERLAP_TILE_2": {
+      "data": [
+        { "viewAllUrl": "", "imageUrl": "", "alt": "", "productId": "" }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "minItem": 6,
+      "maxItem": 20,
+      "viewAllUrl": ""
+    }
+  },
+  "IOS": {
+    "BANNER": {
+      "data": [
+        {
+          "sortOrder": 1,
+          "imageUrl": "",
+          "alt": "",
+          "href": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "BANNER",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "autoTransitionTime": 0,
+      "animationType": "",
+      "animationSpeed": "",
+      "minItem": 1,
+      "maxItem": 5
+    },
+    "PRODUCT": {
+      "data": [],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "href": ""
+    },
+    "HORIZONTAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 5,
+      "viewAllUrl": ""
+    },
+    "HORIZONTAL_TILE_2": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 0,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 400
+    },
+    "HOTNOW": {
+      "data": [
+        {
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 2,
+      "maxItem": 3
+    },
+    "SHOP_THE_LOOK": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "imageUrl": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "action": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": {
+        "height": 0,
+        "width": 0,
+        "itemScreenCount": 1
+      },
+      "subtype": "",
+      "label": ""
+    },
+    "VIDEO_BANNER": {
+      "data": [
+        {
+          "autoplay": false,
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "gender": "",
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "STRIP_BANNER": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "VERTICAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 4,
+      "maxItem": 4,
+      "viewAllUrl": ""
+    },
+    "TEXT_BANNER": {
+      "data": [{ "gender": "", "sortOrder": 1, "htmlDataString": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "SALE_TIMER": {
+      "data": [
+        {
+          "title": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "subtitle": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": ""
+    },
+    "FLEX_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 2,
+      "maxItem": 5
+    },
+    "GRID_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 3,
+      "maxItem": 6
+    },
+    "LOGO_STRIP": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "IMAGE",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 8,
+      "maxItem": 400
+    },
+    "FLASH_SALE": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "startDatetime": "",
+      "endDatetime": ""
+    },
+    "BRAND_STORE": {
+      "data": [
+        {
+          "imageUrl": "",
+          "title": "",
+          "href": "",
+          "description": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SUBSCRIPTION": {
+      "data": [{ "description": "", "gender": "", "sortOrder": 1 }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SPACE_STRIP": {
+      "data": [],
+      "sortOrder": 1,
+      "type": ""
+    },
+    "OVERLAP_TILE_2": {
+      "data": [
+        { "viewAllUrl": "", "imageUrl": "", "alt": "", "productId": "" }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "minItem": 6,
+      "maxItem": 20,
+      "viewAllUrl": ""
+    }
+  },
+  "WEB": {
+    "BANNER": {
+      "data": [
+        {
+          "sortOrder": 1,
+          "imageUrl": "",
+          "alt": "",
+          "hrefList": [
+            { "rel": "LEFT", "url": "" },
+            { "rel": "RIGHT", "url": "" }
+          ]
+        }
+      ],
+      "sortOrder": 1,
+      "type": "BANNER",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "autoTransitionTime": 0,
+      "animationType": "",
+      "animationSpeed": "",
+      "minItem": 1,
+      "maxItem": 5
+    },
+    "PRODUCT": {
+      "data": [],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "href": ""
+    },
+    "HORIZONTAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 5,
+      "viewAllUrl": ""
+    },
+    "HORIZONTAL_TILE_2": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 0,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 400
+    },
+    "HOTNOW": {
+      "data": [
+        {
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 2,
+      "maxItem": 3
+    },
+    "VIDEO_BANNER": {
+      "data": [
+        {
+          "autoplay": false,
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "gender": "",
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "STRIP_BANNER": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "VERTICAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 4,
+      "maxItem": 4,
+      "viewAllUrl": ""
+    },
+    "TEXT_BANNER": {
+      "data": [{ "gender": "", "sortOrder": 1, "htmlDataString": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "SALE_TIMER": {
+      "data": [
+        {
+          "title": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "subtitle": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": ""
+    },
+    "FLEX_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 2,
+      "maxItem": 5
+    },
+    "GRID_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 3,
+      "maxItem": 6
+    },
+    "LOGO_STRIP": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "IMAGE",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 8,
+      "maxItem": 400
+    },
+    "FLASH_SALE": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "startDatetime": "",
+      "endDatetime": ""
+    },
+    "BRAND_STORE": {
+      "data": [
+        {
+          "imageUrl": "",
+          "title": "",
+          "href": "",
+          "description": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SUBSCRIPTION": {
+      "data": [{ "description": "", "gender": "", "sortOrder": 1 }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SPACE_STRIP": {
+      "data": [],
+      "sortOrder": 1,
+      "type": ""
+    },
+    "OVERLAP_TILE_2": {
+      "data": [
+        { "viewAllUrl": "", "imageUrl": "", "alt": "", "productId": "" }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "minItem": 6,
+      "maxItem": 20,
+      "viewAllUrl": ""
+    },
+    "VIDEO_N_IMAGE": {
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "data": [
+        {
+          "type": "",
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "gender": "",
+          "sortOrder": 1
+        },
+        { "type": "", "videoUrl": "", "gender": "", "sortOrder": 2 }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "minItem": 2,
+      "maxItem": 3
+    }
+  },
+  "MSITE": {
+    "BANNER": {
+      "data": [
+        {
+          "sortOrder": 1,
+          "imageUrl": "",
+          "alt": "",
+          "hrefList": [
+            { "rel": "LEFT", "url": "" },
+            { "rel": "RIGHT", "url": "" }
+          ]
+        }
+      ],
+      "sortOrder": 1,
+      "type": "BANNER",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "autoTransitionTime": 0,
+      "animationType": "",
+      "animationSpeed": "",
+      "minItem": 1,
+      "maxItem": 5
+    },
+    "PRODUCT": {
+      "data": [],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "href": ""
+    },
+    "HORIZONTAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 5,
+      "viewAllUrl": ""
+    },
+    "HORIZONTAL_TILE_2": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 0,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 5,
+      "maxItem": 400
+    },
+    "HOTNOW": {
+      "data": [
+        {
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 2,
+      "maxItem": 3
+    },
+    "SHOP_THE_LOOK": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "imageUrl": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "action": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": {
+        "height": 0,
+        "width": 0,
+        "itemScreenCount": 1
+      },
+      "subtype": "",
+      "label": ""
+    },
+    "VIDEO_BANNER": {
+      "data": [
+        {
+          "autoplay": false,
+          "imageUrl": "",
+          "alt": "",
+          "href": "",
+          "gender": "",
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "STRIP_BANNER": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "VERTICAL_TILE_1": {
+      "data": [
+        {
+          "viewAllUrl": "",
+          "alt": "",
+          "href": "",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 4,
+      "maxItem": 4,
+      "viewAllUrl": ""
+    },
+    "TEXT_BANNER": {
+      "data": [{ "gender": "", "sortOrder": 1, "htmlDataString": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 1,
+      "maxItem": 1
+    },
+    "SALE_TIMER": {
+      "data": [
+        {
+          "title": "",
+          "gender": "",
+          "sortOrder": 1,
+          "href": "",
+          "subtitle": "",
+          "imageUrl": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": ""
+    },
+    "FLEX_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 2,
+      "maxItem": 5
+    },
+    "GRID_TILE": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "endDatetime": "",
+      "minItem": 3,
+      "maxItem": 6
+    },
+    "LOGO_STRIP": {
+      "data": [{ "imageUrl": "", "href": "", "alt": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "IMAGE",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "minItem": 8,
+      "maxItem": 400
+    },
+    "FLASH_SALE": {
+      "data": [{ "imageUrl": "", "alt": "", "href": "" }],
+      "sortOrder": 1,
+      "type": "",
+      "subtype": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 },
+      "startDatetime": "",
+      "endDatetime": ""
+    },
+    "BRAND_STORE": {
+      "data": [
+        {
+          "imageUrl": "",
+          "title": "",
+          "href": "",
+          "description": ""
+        }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SUBSCRIPTION": {
+      "data": [{ "description": "", "gender": "", "sortOrder": 1 }],
+      "sortOrder": 1,
+      "type": "",
+      "appearance": { "height": 0, "width": 0, "itemScreenCount": 0 }
+    },
+    "SPACE_STRIP": {
+      "data": [],
+      "sortOrder": 1,
+      "type": ""
+    },
+    "OVERLAP_TILE_2": {
+      "data": [
+        { "viewAllUrl": "", "imageUrl": "", "alt": "", "productId": "" }
+      ],
+      "sortOrder": 1,
+      "type": "",
+      "minItem": 6,
+      "maxItem": 20,
+      "viewAllUrl": ""
+    }
+  }
+}
